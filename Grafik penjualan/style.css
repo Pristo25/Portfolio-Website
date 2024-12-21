@@ -1,0 +1,15 @@
+@media (max-width: 600px) {
+    canvas {
+        max-width: 100%; /* Grafik memenuhi layar kecil */
+    }
+    h1 {
+        font-size: 18px; /* Ukuran judul lebih kecil */
+    }
+}
+
+canvas {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    margin: 0 auto;
+}
